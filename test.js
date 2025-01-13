@@ -24,3 +24,5 @@ console.log("Bad Code !!!");
 //Code
 
 //Code Enhancement
+
+console.log("new message!!");
