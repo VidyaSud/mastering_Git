@@ -14,3 +14,7 @@ console.log("New Feature from Shri");
 
 console.log("New Feature from Sud");
 console.log("Bad Code !!!");
+
+//Bug fixing
+//Code Fix
+//Code fix
